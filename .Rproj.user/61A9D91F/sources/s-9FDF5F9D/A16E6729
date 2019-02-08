@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549447139904.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4157036959",
+    "id" : "A16E6729",
+    "lastKnownWriteTime" : 1549447212,
+    "last_content_update" : 1549447212368,
+    "path" : "C:/Users/User/Desktop/BSSA/Module 2/Market Basket Analysis/Import and Explore Data_v1.R",
+    "project_path" : "Import and Explore Data_v1.R",
+    "properties" : {
+        "cursorPosition" : "16,0",
+        "scrollLine" : "2",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

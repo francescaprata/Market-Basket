@@ -1,0 +1,24 @@
+##DESCRIPTION: Basket Market Analysis Electronidex Transactions
+##NAME:Francesca Prata
+##sCRIPT:Importing and exploring the data 
+##VERSION: 1
+
+##Setting up the libraries and dataset 
+
+library(arules)
+library(arulesViz)
+library(RColorBrewer)
+
+MarketBasket <- read.transactions("ElectronidexTransactions2017.csv",
+                  format = c("basket"), 
+                  sep = ",",
+                  rm.duplicates = "FALSE")
+
+##Exploring the data
+inspect(MarketBasket) ##Is there a way to see a certain number of transactions? 
+length(MarketBasket)
+size(MarketBasket)
+LIST(MarketBasket)
+itemLabels(MarketBasket)
+
+##Any insights from the data?

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1549208768882.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3FDE3273",
+    "lastKnownWriteTime" : 1549372023,
+    "last_content_update" : 1549448404174,
+    "path" : "C:/Users/User/Desktop/BSSA/Module 2/Market Basket Analysis/Data_Visualization_v1.R",
+    "project_path" : "Data_Visualization_v1.R",
+    "properties" : {
+        "cursorPosition" : "17,0",
+        "scrollLine" : "3",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
